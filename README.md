@@ -2,44 +2,8 @@
 
 A comprehensive repository containing implementations, explanations, and multi-language solutions for Design and Analysis of Algorithms (DAA) laboratory exercises and experiments.
 
----
-
-## 📁 Repository Structure & Guidelines
-
-For every experiment/question, a dedicated folder will be created. Each question folder must contain:
-
-1. **Multi-Language Solutions**:
-   - `solution.py` (Python)
-   - `solution.c` (C)
-   - `solution.cpp` (C++)
-   - `Solution.java` (Java)
-   - `solution.js` (JavaScript)
-   - `solution.go` (Go)
-2. **Documentation & Analysis**:
-   - `explanation.md`: Detailed algorithm explanation, approach breakdown, pseudocode, time complexity, and space complexity analysis.
-
-### Example Folder Structure
-
-```text
-DAA/
-├── README.md
-├── exp-01/
-│   ├── q1-tower-of-hanoi/
-│   │   ├── solution.py
-│   │   ├── solution.c
-│   │   ├── solution.cpp
-│   │   ├── Solution.java
-│   │   ├── solution.js
-│   │   ├── solution.go
-│   │   └── explanation.md
-│   ├── q2-max-min-recursion/
-│   │   └── ...
-│   ├── q3-factorial-fibonacci-recursion/
-│   │   └── ...
-│   └── q4-gcd-recursion/
-│       └── ...
-└── ...
-```
+> [!NOTE]
+> For instructions on folder structure, required files, and implementation guidelines, refer to [INSTRUCTIONS.md](file:///Users/aritra/Code/College/DAA/INSTRUCTIONS.md).
 
 ---
 
@@ -79,14 +43,3 @@ DAA/
 | **15** | **i** | Implement Naïve String Matching Algorithm. | 78–81 |
 | | **ii** | Implement KMP String Matching Algorithm. | 81–84 |
 | | **iii** | Construct LPS table for a given pattern. | 84–87 |
-
----
-
-## 🛠️ Languages Supported
-
-- **C** (`.c`)
-- **C++** (`.cpp`)
-- **Java** (`.java`)
-- **Python** (`.py`)
-- **JavaScript** (`.js`)
-- **Go** (`.go`)
